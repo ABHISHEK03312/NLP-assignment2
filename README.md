@@ -8,8 +8,12 @@ The results of the models can be found under the respective folders: for example
 The Graphical representations for the results can be found in results-graphs.ipynb. For plotting the results from the csv files, run this notebook.
 
 Instructions to run NER:
-* Change necessary file paths as well as required parameters to generate results. 
-* example parameters : word_mode, char_mode which can take values such as "LSTM" or "CNN". 
+* Run the file NLP_Assignment2_Question2.ipynb
+* Change necessary file paths such as the path for model saving, path for saving csvs.
+* Change necessary parameters such as:
+- word_mode which can take values "LSTM" or "CNN"
+- char_mode which can take values "LSTM" or "CNN"
+- cnn_layers which can take an integer value starting from 1
 
 
 Sample Outputs:
