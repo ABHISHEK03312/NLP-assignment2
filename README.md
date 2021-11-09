@@ -7,6 +7,6 @@ The results of the models can be found under the respective fodlers.
 
 The Graphical representations for the results can be found in results-graphs.ipynb
 
-#### change necessary file paths in order to generate results. 
+### Change necessary file paths in order to generate results. 
 
 
