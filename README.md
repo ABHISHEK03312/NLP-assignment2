@@ -7,6 +7,7 @@ The results of the models can be found under the respective fodlers.
 
 The Graphical representations for the results can be found in results-graphs.ipynb
 
-### Change necessary file paths in order to generate results. 
+### Change necessary file paths as well as required parameters to generate results. 
+#### example parameters : word_mode, char_model which can take values such as "LSTM" or "CNN". 
 
 
